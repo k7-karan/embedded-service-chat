@@ -7,8 +7,8 @@
 
 			embeddedservice_bootstrap.init(
 				'00DKd0000052SO1',
-				'BSC_Web_Deployment',
-				'https://ac1730189866016.my.site.com/ESWBSCWebDeployment1730264897831',
+				'MiaW_for_Github',
+				'https://ac1730189866016.my.site.com/ESWMiaWforGithub1733298562140',
 				{
 					scrt2URL: 'https://ac1730189866016.my.salesforce-scrt.com'
 				}
@@ -18,7 +18,7 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://ac1730189866016.my.site.com/ESWBSCWebDeployment1730264897831/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://ac1730189866016.my.site.com/ESWMiaWforGithub1733298562140/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 
   </body>
 </html>
